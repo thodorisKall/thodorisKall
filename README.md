@@ -1,3 +1,6 @@
+![banner](https://github.com/thodorisKall/thodorisKall/assets/105176440/25e570b1-4c25-4e01-855d-638bc64ac71d)
+
+
 <h1 align="center"> I'm Thodoris Kallioras</h1>
 <h3 align="center">I'm a front-end developer who loves creating user-friendly projects. I specialize in building Single Page Applications (SPAs) that are easy to use. I'm always learning new skills to improve my work. My focus is on making web pages that look great and work well on any device.</h3>
 
