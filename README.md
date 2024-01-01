@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thodoriskall&label=Profile%20views&color=0e75b6&style=plastic" alt="thodoriskall" /> </p>
 
-- 👨‍💻 All of my projects are available at [thodoriskallioras.com/portfolio](thodoriskallioras.com/portfolio)
+-  👨‍💻 All of my projects are available at <a href="http://thodoriskallioras.com/portfolio" target="_blank">thodoriskallioras.com/portfolio</a>
 
 - 📫 How to reach me **thodoris.kallioras@gmail.com**
 
