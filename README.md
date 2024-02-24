@@ -2,13 +2,13 @@
 
 
 <h1 align="center"> I'm Thodoris Kallioras</h1>
-<h3 align="center">I'm a front-end developer who loves creating user-friendly projects. I specialize in building Single Page Applications (SPAs) that are easy to use. I'm always learning new skills to improve my work. My focus is on making web pages that look great and work well on any device.</h3>
+<h3 align="center">I'm a web developer focused on building user-friendly Single Page Applications (SPAs) and small CRUD full stack apps. I'm committed to learning and improving, aiming to create web pages that are both visually appealing and highly functional on all devices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thodoriskall&label=Profile%20views&color=0e75b6&style=plastic" alt="thodoriskall" /> </p>
 
 -  👨‍💻 All of my projects are available at <a href="http://thodoriskallioras.com/portfolio" target="_blank">thodoriskallioras.com/portfolio</a>
 
-- 📫 How to reach me **thodoris.kallioras@gmail.com**
+- 📫 You can reach me at **thodoris.kallioras@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
